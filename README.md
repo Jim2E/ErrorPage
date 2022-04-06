@@ -1,2 +1,2 @@
 # ErrorPage
-404 Page Not Found
+Error page for digiyo.io website.
